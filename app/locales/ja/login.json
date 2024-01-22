@@ -1,0 +1,13 @@
+{
+  "document_title": "ログイン",
+  "title": "私のやるべきこと",
+  "login_title": "ログイン",
+  "email_field": "Eメール",
+  "email_field_placeholder": "メールアドレスを入力",
+  "password_field": "パスワード",
+  "password_field_placeholder": "パスワードを入力してください",
+  "question_account": "アカウントをお持ちでない場合は、?",
+  "sign_up_link": "こちらでサインアップ",
+  "email_required": "[メールアドレス]は必須です。 入ってください。",
+  "password_required": "[パスワードが必要。 入ってください。"
+}
