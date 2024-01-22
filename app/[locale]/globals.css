@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  input {
+    @apply bg-background h-10 w-full max-w-[295px] rounded-[10px] px-5 py-[10px] text-sm md:h-14 md:max-w-[386px] md:px-8 md:py-4;
+  }
+
+  .btn {
+    @apply bg-primary/90 hover:bg-primary/100 flex h-9 min-w-[100px] flex-shrink-0 items-center justify-center gap-2 rounded px-5 text-white md:h-11 md:min-w-[116px];
+  }
+}
