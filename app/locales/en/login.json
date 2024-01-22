@@ -1,0 +1,13 @@
+{
+  "document_title": "Login",
+  "title": "Login to your account",
+  "login_title": "Login",
+  "email_field": "EMAIL",
+  "email_field_placeholder": "Enter your email",
+  "password_field": "PASSWORD",
+  "password_field_placeholder": "Enter your password",
+  "question_account": "Don't have an account?",
+  "sign_up_link": "Sign up here",
+  "email_required": "[Email] is required. Please enter.",
+  "password_required": "[Password] is required. Please enter."
+}
